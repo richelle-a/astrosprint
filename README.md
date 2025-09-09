@@ -43,32 +43,63 @@ git clone https://github.com/your-username/AstroSprint.git
 cd AstroSprint
 ```
 **Open in Unity**  
-Install Unity (recommended version: 2021.x or newer)  
-Open Unity Hub, click Add, and select the project folder  
+1. Install Unity (recommended version: 2021.x or newer)  
+2. Open Unity Hub, click Add, and select the project folder  
 
 **Play the game**  
-Press the ▶️ Play button in the Unity Editor  
+- Press the ▶️ Play button in the Unity Editor  
 
 **Build the game (optional)**  
-Go to File > Build Settings  
-Select your target platform (Windows, macOS, Linux)  
-Click Build and Run to create a standalone executable  
+1. Go to File > Build Settings  
+2. Select your target platform (Windows, macOS, Linux)  
+3. Click Build and Run to create a standalone executable  
 
 ---
 
 ## 🛠️ Development
 
 ### Pre-Requisites
-Unity (2021.x or newer)  
-Visual Studio Code (or another C# IDE)  
-Internet connection for database features (PlayFab integration)  
+1. Unity (2021.x or newer)  
+2. Visual Studio Code (or another C# IDE)  
+3. Internet connection for database features (PlayFab integration)  
 
 ### Development Environment
-Clone the repository into a local folder  
-Open the project in Unity Hub  
-Scripts are written in C# and located in the `Assets/Scripts/` folder  
-PlayFab is used for external database storage of highscores, coins, characters, and upgrades  
+1. Clone the repository into a local folder  
+2. Open the project in Unity Hub  
+3. Scripts are written in C# and located in the `Assets/Scripts/` folder  
+4. PlayFab is used for external database storage of highscores, coins, characters, and upgrades  
 
 ---
 
+## 📸 Gallery
+
+**Gameplay** 
+<p align="center">
+  <img src="screenshots/gameplay1.png" alt="Gameplay Screenshot 1" width="250"/>
+  <img src="screenshots/gameplay2.png" alt="Gameplay Screenshot 2" width="250"/>
+</p>
+
+<p align="center">
+  <em>Gameplay examples showing the endless runner mechanics, power-ups, and UI.</em>
+</p>
+
+**Menus**
+<p align="center">
+  <img src="screenshots/main menu.png" alt="Main Menu Screenshot" width="250"/>
+  <img src="screenshots/login menu.png" alt="Login Menu Screenshot" width="250"/>
+  <img src="screenshots/sign up menu.png" alt="Sign Up Menu Screenshot" width="250"/>
+  <img src="screenshots/character menu.png" alt="Character Menu Screenshot" width="250"/>
+  <img src="screenshots/abilities menu.png" alt="Abilities Menu Screenshot" width="250"/>
+</p>
+
+<p align="center">
+  <em>Screenshots showing the different menus within the game.</em>
+</p>
+
+---
+
+## 📜 License
+
+This project has **no license** and is therefore **All Rights Reserved**.  
+You may not use, copy, modify, or distribute this project without explicit permission from the author (**Richelle Acheampong**).
 
