@@ -16,7 +16,7 @@ AstroSprint is a 2D endless runner game built in Unity where players dodge obsta
 
 ---
 
-## 📖 About
+## About
 AstroSprint was developed as part of an A-Level Computer Science project.  
 
 **Game features include:**  
@@ -32,7 +32,7 @@ AstroSprint was developed as part of an A-Level Computer Science project.
 
 ---
 
-## 🎮 Usage
+## Usage
 
 ### Installation
 To run this project locally:  
@@ -56,7 +56,7 @@ cd AstroSprint
 
 ---
 
-## 🛠️ Development
+## Development
 
 ### Pre-Requisites
 1. Unity (2021.x or newer)  
@@ -71,7 +71,7 @@ cd AstroSprint
 
 ---
 
-## 📸 Gallery
+## Gallery
 
 **Gameplay** 
 <p align="center">
