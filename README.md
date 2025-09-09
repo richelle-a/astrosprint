@@ -98,7 +98,7 @@ cd AstroSprint
 
 ---
 
-## 📜 License
+## License
 
 This project has **no license** and is therefore **All Rights Reserved**.  
 You may not use, copy, modify, or distribute this project without explicit permission from the author (**Richelle Acheampong**).
