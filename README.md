@@ -28,7 +28,7 @@ AstroSprint was developed as part of an A-Level Computer Science project.
 - External database integration via Microsoft PlayFab to store highscores, coins, and upgrades  
 
 📄 For the complete 300+ page design and technical write-up, see the full documentation:  
-[AstroSprint Documentation.pdf](docs/AstroSprint%20Documentation.pdf)  
+[AstroSprint Documentation.pdf](astrosprint%20docs.pdf)  
 
 ---
 
